@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background: gray;
+    height: 100vh;
+}
+
+header {
+    background: gray;
+    width: 100%;
+    height:15vh;
+    color: gray;
+}
+
+footer {
+    background: gray;
+    margin: 0 auto;
+    width: 69%;
+    height: 10vh;
+    color: gray;
+}
+
+div {
+    background: lightgray;
+    display: inline-block;
+    width:15%;
+    height:85vh;
+    color: lightgray;
+    margin: 0 auto;
+}
+#divMiddle {
+    margin: 0 auto;
+    background: white;
+    width:69.5%;
+    height: 70vh;
+    color: white;
+}
