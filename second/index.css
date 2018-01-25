@@ -1,0 +1,76 @@
+body {
+    height:100vh;
+    width: 100vw;
+}
+header {
+    margin 5px;
+    height: 30%;
+    width: 98%;
+    border: solid;
+}
+div {
+    margin 5px;
+    margin-top: 20px;
+    height: 30%;
+    width: 98%;
+    border: dotted;
+}
+
+footer {
+    margin 0 auto;
+    margin-top: 20px;
+    margin-left: 500px;
+    height: 30%;
+    width: 40%;
+    border: solid;
+    box-shadow: 20px 10px 5px 0px lightgray;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h1 {
+    margin-top:100px;
+    color: navy;
+}
+#yucki {
+    width: 80%;
+    height: 50%;
+    background: peachpuff;
+    margin-left: 170px;
+    margin-top: 80px;
+    border: solid .5px;
+    box-shadow: 20px 10px 5px 0px gray;
+}
+#square {
+	width: 50px;
+	height: 200px;
+    background: purple;
+    margin-left: 10px;
+    margin-top: 80px;
+    border: none;
+    display: inline-block;
+  
+}
+
+#square2 {
+	width: 500px;
+	height: 200px;
+    background: green;
+    margin-left: 100px;
+    margin-top: 60px;
+    border: none;
+    display: inline-block;
+  
+}
+
+#circle {
+	width: 200px;
+	height: 200px;
+    background: lightskyblue;
+    margin-left: 100px;
+    margin-top: 80px;
+    border: none;
+    display: inline-block;
+    border-radius: 500px;
+  
+}
