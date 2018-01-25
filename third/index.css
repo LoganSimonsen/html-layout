@@ -1,0 +1,41 @@
+    body{
+        height:100vh;
+    }
+    header {
+        background-color: gray;
+        height: 12%
+    }
+    
+    div {
+        height: 12%;
+    }
+    .content {
+        height: 38%;
+        font-size: 2em;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .blue {
+        background-color: aqua;
+
+    }
+    .green {
+        background-color: lightgreen;
+    }
+
+    .mud {
+        background-color: burlywood;
+    }
+
+    .yellow {
+        background-color: yellow
+    }
+    #square {
+        width: 100px;
+        height: 100px;
+        background: aqua;
+        margin: 10px;
+        position: fixed;
+        
+    }
+        
